@@ -37,4 +37,4 @@ jobs:
         run: pnpm lint
 
       - name: Run build
-        run: pnpm buildS
+        run: pnpm build
